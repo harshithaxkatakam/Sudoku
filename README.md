@@ -49,18 +49,6 @@ This is a simple **Sudoku** game implemented using HTML, CSS, and JavaScript. Pl
 - **Solution**: Update the `solution` array to match the new puzzle.
 - **Styles**: Customize colors, fonts, and grid design in the CSS to change the game's appearance.
 
-## Screenshots
-
-### Initial Game Screen
-- Displays the Sudoku board with some cells pre-filled and the number panel on the side.
-
-### Gameplay
-- Players select numbers from the panel and place them on the board.
-- Incorrect placements increase the error count displayed on the screen.
-
-### Completed Puzzle
-- The game ends when all cells are correctly filled, and no empty tiles remain.
-
 ---
 
 ## Enjoy Playing!
